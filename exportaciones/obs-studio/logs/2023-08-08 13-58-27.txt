@@ -1,0 +1,1031 @@
+13:58:27.961: CPU Name: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+13:58:27.961: CPU Speed: 2592MHz
+13:58:27.961: Physical Cores: 6, Logical Cores: 12
+13:58:27.961: Physical Memory: 16201MB Total, 9744MB Free
+13:58:27.961: Windows Version: 10.0 Build 22621 (release: 22H2; revision: 1992; 64-bit)
+13:58:27.961: Running as administrator: false
+13:58:27.961: Windows 10/11 Gaming Features:
+13:58:27.961: 	Game Bar: On
+13:58:27.961: 	Game DVR: On
+13:58:27.961: 	Game DVR Background Recording: Off
+13:58:27.961: 	Game Mode: Probably On (no reg key set)
+13:58:27.963: Sec. Software Status:
+13:58:27.965: 	Antivirus de Microsoft Defender: enabled (AV)
+13:58:27.965: 	Firewall de Windows: enabled (FW)
+13:58:27.966: Current Date/Time: 2023-08-08, 13:58:27
+13:58:27.966: Browser Hardware Acceleration: true
+13:58:27.966: Hide OBS windows from screen capture: false
+13:58:27.966: Qt Version: 6.4.3 (runtime), 6.4.3 (compiled)
+13:58:27.966: Portable mode: false
+13:58:28.515: OBS 29.1.3 (64-bit, windows)
+13:58:28.515: ---------------------------------
+13:58:28.567: ---------------------------------
+13:58:28.567: audio settings reset:
+13:58:28.567: 	samples per sec: 48000
+13:58:28.567: 	speakers:        2
+13:58:28.567: 	max buffering:   960 milliseconds
+13:58:28.567: 	buffering type:  dynamically increasing
+13:58:28.570: ---------------------------------
+13:58:28.570: Initializing D3D11...
+13:58:28.570: Available Video Adapters: 
+13:58:28.576: 	Adapter 0: NVIDIA GeForce RTX 2070 with Max-Q Design
+13:58:28.576: 	  Dedicated VRAM: 8408530944
+13:58:28.576: 	  Shared VRAM:    8494114816
+13:58:28.576: 	  PCI ID:         10de:1f14
+13:58:28.576: 	  Driver Version: 31.0.15.3168
+13:58:28.576: 	  output 0:
+13:58:28.576: 	    name=LQ156M1JW03
+13:58:28.576: 	    pos={0, 0}
+13:58:28.576: 	    size={1920, 1080}
+13:58:28.576: 	    attached=true
+13:58:28.576: 	    refresh=240
+13:58:28.576: 	    bits_per_color=8
+13:58:28.576: 	    space=RGB_FULL_G22_NONE_P709
+13:58:28.576: 	    sdr_white_nits=80
+13:58:28.576: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+13:58:28.576: 	    dpi=120 (125%)
+13:58:28.576: 	    id=\\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+13:58:28.576: 	    alt_id=\\.\DISPLAY1
+13:58:28.576: 	  output 1:
+13:58:28.576: 	    name=BK550Y
+13:58:28.576: 	    pos={-1920, 0}
+13:58:28.576: 	    size={1920, 1080}
+13:58:28.576: 	    attached=true
+13:58:28.576: 	    refresh=60
+13:58:28.576: 	    bits_per_color=8
+13:58:28.576: 	    space=RGB_FULL_G22_NONE_P709
+13:58:28.576: 	    sdr_white_nits=80
+13:58:28.576: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+13:58:28.576: 	    dpi=96 (100%)
+13:58:28.576: 	    id=\\?\DISPLAY#GSM5B41#5&3afd86ad&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+13:58:28.576: 	    alt_id=\\.\DISPLAY4
+13:58:28.577: 	Adapter 1: Intel(R) UHD Graphics
+13:58:28.577: 	  Dedicated VRAM: 134217728
+13:58:28.577: 	  Shared VRAM:    8494114816
+13:58:28.577: 	  PCI ID:         8086:9bc4
+13:58:28.577: 	  Driver Version: 26.20.100.7642
+13:58:28.583: Loading up D3D11 on adapter NVIDIA GeForce RTX 2070 with Max-Q Design (0)
+13:58:28.664: D3D11 loaded successfully, feature level used: b000
+13:58:28.664: DXGI increase maximum frame latency success
+13:58:28.664: Hardware-Accelerated GPU Scheduling enabled on adapter!
+13:58:28.664: D3D11 GPU priority setup failed (not admin?)
+13:58:30.141: ---------------------------------
+13:58:30.141: video settings reset:
+13:58:30.141: 	base resolution:   1920x1080
+13:58:30.141: 	output resolution: 1920x1080
+13:58:30.141: 	downscale filter:  Bicubic
+13:58:30.141: 	fps:               60/1
+13:58:30.141: 	format:            NV12
+13:58:30.141: 	YUV mode:          Rec. 709/Partial
+13:58:30.142: NV12 texture support enabled
+13:58:30.142: P010 texture support not available
+13:58:30.144: Audio monitoring device:
+13:58:30.144: 	name: Por defecto
+13:58:30.144: 	id: default
+13:58:30.144: ---------------------------------
+13:58:30.159: No AJA devices found, skipping loading AJA UI plugin
+13:58:30.159: Failed to initialize module 'aja-output-ui.dll'
+13:58:30.171: No AJA devices found, skipping loading AJA plugin
+13:58:30.171: Failed to initialize module 'aja.dll'
+13:58:30.172: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+13:58:30.180: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+13:58:30.182: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+13:58:30.184: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+13:58:30.193: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13:58:30.193: Failed to initialize module 'decklink.dll'
+13:58:30.225: [AMF] Unable to load 'amfrt64.dll', error code 126.
+13:58:30.226: [AMF] AMF Test failed due to one or more errors.
+13:58:30.226: Failed to initialize module 'enc-amf.dll'
+13:58:30.299: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+13:58:30.300: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+13:58:30.301: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+13:58:30.361: [obs-browser]: Version 2.21.1
+13:58:30.361: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+13:58:30.397: NVENC supported
+13:58:30.550: [NVENC] AV1 is not supported
+13:58:30.562: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+13:58:30.563: Failed to get NVVideoEffects.dll version info size
+13:58:30.563: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+13:58:31.290: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.2.3 | RPC Version: 1)
+13:58:31.290: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.3 | Qt version (run-time): 6.4.3
+13:58:31.290: [obs-websocket] [obs_module_load] Linked ASIO Version: 101201
+13:58:31.301: [obs-websocket] [obs_module_load] Module loaded.
+13:58:31.343: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+13:58:31.382: ---------------------------------
+13:58:31.382:   Loaded Modules:
+13:58:31.382:     win-wasapi.dll
+13:58:31.382:     win-dshow.dll
+13:58:31.382:     win-capture.dll
+13:58:31.382:     vlc-video.dll
+13:58:31.382:     text-freetype2.dll
+13:58:31.382:     rtmp-services.dll
+13:58:31.382:     obs-x264.dll
+13:58:31.382:     obs-websocket.dll
+13:58:31.382:     obs-vst.dll
+13:58:31.382:     obs-transitions.dll
+13:58:31.382:     obs-text.dll
+13:58:31.382:     obs-qsv11.dll
+13:58:31.382:     obs-outputs.dll
+13:58:31.382:     obs-filters.dll
+13:58:31.382:     obs-ffmpeg.dll
+13:58:31.382:     obs-browser.dll
+13:58:31.382:     image-source.dll
+13:58:31.382:     frontend-tools.dll
+13:58:31.382:     decklink-output-ui.dll
+13:58:31.382:     decklink-captions.dll
+13:58:31.382:     coreaudio-encoder.dll
+13:58:31.382: ---------------------------------
+13:58:31.383: ==== Startup complete ===============================================
+13:58:31.533: All scene data cleared
+13:58:31.533: ------------------------------------------------
+13:58:31.663: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+13:58:31.663: 	display:  (0x0)
+13:58:31.663: 	cursor: true
+13:58:31.663: 	method: WGC
+13:58:31.663: 	id: 
+13:58:31.663: 	alt_id: 
+13:58:31.663: 	setting_id: DUMMY
+13:58:31.663: 	force SDR: false
+13:58:31.664: Failed to open file 'C:/Users/Bernardo/Downloads/vista_city_gerkin.jpg': No such file or directory
+13:58:31.665: WIC: Failed to create IWICBitmapDecoder from file: C:/Users/Bernardo/Downloads/vista_city_gerkin.jpg
+13:58:31.665: gs_image_file_init_internal: Failed to load file 'C:/Users/Bernardo/Downloads/vista_city_gerkin.jpg'
+13:58:31.665: [image_source: 'Imagen 2'] failed to load texture 'C:/Users/Bernardo/Downloads/vista_city_gerkin.jpg'
+13:58:31.694: warning: deprecated pixel format used, make sure you did set range correctly
+13:58:31.740: warning: deprecated pixel format used, make sure you did set range correctly
+13:58:31.776: warning: deprecated pixel format used, make sure you did set range correctly
+13:58:31.819: warning: deprecated pixel format used, make sure you did set range correctly
+13:58:31.833: Dispositivo de captura de video: data.GetDevice failed
+13:58:31.833: Dispositivo de captura de video: Video configuration failed
+13:58:31.835: [win-wasapi: 'Captura de entrada audio'] update settings:
+13:58:31.835: 	device id: {0.0.1.00000000}.{0bdfdc9d-ae0b-4b9c-9bf2-9f19d15621c2}
+13:58:31.835: 	use device timing: 0
+13:58:31.892: Switched to scene 'Escena'
+13:58:31.892: ------------------------------------------------
+13:58:31.892: Loaded scenes:
+13:58:31.892: - scene 'Escena':
+13:58:31.892:     - source: 'Captura de pantalla' (monitor_capture)
+13:58:31.892:     - source: 'Imagen 6' (image_source)
+13:58:31.892:     - source: 'Imagen 5' (image_source)
+13:58:31.892:     - source: 'Imagen 4' (image_source)
+13:58:31.892:     - source: 'Imagen 7' (image_source)
+13:58:31.892:     - source: 'Imagen 3' (image_source)
+13:58:31.892:     - source: 'Dispositivo de captura de video' (dshow_input)
+13:58:31.892:     - source: 'Imagen' (image_source)
+13:58:31.892:     - source: 'Imagen 2' (image_source)
+13:58:31.892:     - source: 'Captura de entrada audio' (wasapi_input_capture)
+13:58:31.892: ------------------------------------------------
+13:58:31.909: WASAPI: Device 'System Virtual Line (MSI Sound Tune)' [48000 Hz] initialized
+13:58:31.962: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Captura de entrada audio)
+13:58:31.962: 
+13:58:32.091: [rtmp-services plugin] Successfully updated file 'services.json' (version 231)
+13:58:32.091: [rtmp-services plugin] Successfully updated package (version 231)
+13:58:59.256: [win-wasapi: 'Captura de entrada audio'] update settings:
+13:58:59.256: 	device id: {0.0.1.00000000}.{3c9081ea-90c6-4da4-bddc-4436a8212490}
+13:58:59.256: 	use device timing: 0
+13:58:59.259: Device 'System Virtual Line (MSI Sound Tune)' invalidated.  Retrying (source: Captura de entrada audio)
+13:58:59.278: WASAPI: Device 'Micrófono (2- Trust On-ear USB PC Headset)' [48000 Hz] initialized
+14:00:00.181: [win-wasapi: 'Captura de entrada audio 2'] update settings:
+14:00:00.181: 	device id: default
+14:00:00.181: 	use device timing: 0
+14:00:00.186: User added source 'Captura de entrada audio 2' (wasapi_input_capture) to scene 'Escena'
+14:00:00.204: WASAPI: Device 'Micrófono (DRELANMIC)' [192000 Hz] initialized
+14:00:02.556: [win-wasapi: 'Captura de entrada audio 2'] update settings:
+14:00:02.556: 	device id: {0.0.1.00000000}.{160574d6-30f5-4d07-ab10-2d3d3c6e0855}
+14:00:02.556: 	use device timing: 0
+14:00:02.560: Device 'Micrófono (DRELANMIC)' invalidated.  Retrying (source: Captura de entrada audio 2)
+14:00:02.572: WASAPI: Device 'Micrófono (DRELANMIC)' [192000 Hz] initialized
+14:00:13.900: Recording stopped because of bad output path
+14:01:01.018: Settings changed (outputs)
+14:01:01.018: ------------------------------------------------
+14:01:11.724: User Removed source 'Captura de pantalla' (monitor_capture) from scene 'Escena'
+14:01:27.734: User added source 'Captura de ventana' (window_capture) to scene 'Escena'
+14:01:27.796: [window-capture: 'Captura de ventana'] update settings:
+14:01:27.796: 	executable: Nahimic3.exe
+14:01:27.796: 	method selected: Automatic
+14:01:27.796: 	method chosen: WGC
+14:01:27.796: 	force SDR: false
+14:01:49.496: [window-capture: 'Captura de ventana'] update settings:
+14:01:49.496: 	executable: Nahimic3.exe
+14:01:49.496: 	method selected: Automatic
+14:01:49.496: 	method chosen: WGC
+14:01:49.496: 	force SDR: false
+14:01:50.496: [window-capture: 'Captura de ventana'] update settings:
+14:01:50.496: 	executable: Nahimic3.exe
+14:01:50.496: 	method selected: Automatic
+14:01:50.496: 	method chosen: WGC
+14:01:50.496: 	force SDR: false
+14:01:56.680: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:01:56.680: 	display:  (0x0)
+14:01:56.680: 	cursor: true
+14:01:56.680: 	method: WGC
+14:01:56.680: 	id: 
+14:01:56.680: 	alt_id: 
+14:01:56.680: 	setting_id: DUMMY
+14:01:56.680: 	force SDR: false
+14:01:56.684: User added source 'Captura de pantalla' (monitor_capture) to scene 'Escena'
+14:01:56.747: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:01:56.747: 	display: LQ156M1JW03 (1920x1080)
+14:01:56.747: 	cursor: true
+14:01:56.747: 	method: WGC
+14:01:56.747: 	id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:01:56.747: 	alt_id: \\.\DISPLAY1
+14:01:56.747: 	setting_id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:01:56.747: 	force SDR: false
+14:02:00.766: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:00.766: 	display: BK550Y (1920x1080)
+14:02:00.766: 	cursor: true
+14:02:00.766: 	method: WGC
+14:02:00.766: 	id: \\?\DISPLAY#GSM5B41#5&3afd86ad&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:00.766: 	alt_id: \\.\DISPLAY4
+14:02:00.766: 	setting_id: \\?\DISPLAY#GSM5B41#5&3afd86ad&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:00.766: 	force SDR: false
+14:02:04.263: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:04.263: 	display: LQ156M1JW03 (1920x1080)
+14:02:04.263: 	cursor: true
+14:02:04.263: 	method: WGC
+14:02:04.263: 	id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:04.263: 	alt_id: \\.\DISPLAY1
+14:02:04.263: 	setting_id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:04.263: 	force SDR: false
+14:02:07.730: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:07.730: 	display: LQ156M1JW03 (1920x1080)
+14:02:07.730: 	cursor: false
+14:02:07.730: 	method: WGC
+14:02:07.730: 	id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:07.730: 	alt_id: \\.\DISPLAY1
+14:02:07.730: 	setting_id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:07.730: 	force SDR: false
+14:02:09.863: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:09.863: 	display: LQ156M1JW03 (1920x1080)
+14:02:09.863: 	cursor: true
+14:02:09.863: 	method: WGC
+14:02:09.863: 	id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:09.863: 	alt_id: \\.\DISPLAY1
+14:02:09.863: 	setting_id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:09.863: 	force SDR: false
+14:02:10.469: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:10.469: 	display: LQ156M1JW03 (1920x1080)
+14:02:10.469: 	cursor: true
+14:02:10.469: 	method: WGC
+14:02:10.469: 	id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:10.469: 	alt_id: \\.\DISPLAY1
+14:02:10.469: 	setting_id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:10.469: 	force SDR: true
+14:02:37.463: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:37.463: 	display: LQ156M1JW03 (1920x1080)
+14:02:37.463: 	cursor: true
+14:02:37.463: 	method: WGC
+14:02:37.463: 	id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:37.463: 	alt_id: \\.\DISPLAY1
+14:02:37.463: 	setting_id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:37.463: 	force SDR: false
+14:02:37.980: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:37.980: 	display: LQ156M1JW03 (1920x1080)
+14:02:37.980: 	cursor: true
+14:02:37.980: 	method: WGC
+14:02:37.980: 	id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:37.980: 	alt_id: \\.\DISPLAY1
+14:02:37.980: 	setting_id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:37.980: 	force SDR: true
+14:02:38.480: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:38.480: 	display: LQ156M1JW03 (1920x1080)
+14:02:38.480: 	cursor: true
+14:02:38.480: 	method: WGC
+14:02:38.480: 	id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:38.480: 	alt_id: \\.\DISPLAY1
+14:02:38.480: 	setting_id: \\?\DISPLAY#SHP14C5#4&133b5cdd&0&UID265988#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:38.480: 	force SDR: false
+14:02:58.463: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+14:02:58.463: 	display: BK550Y (1920x1080)
+14:02:58.463: 	cursor: true
+14:02:58.463: 	method: WGC
+14:02:58.463: 	id: \\?\DISPLAY#GSM5B41#5&3afd86ad&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:58.463: 	alt_id: \\.\DISPLAY4
+14:02:58.463: 	setting_id: \\?\DISPLAY#GSM5B41#5&3afd86ad&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:02:58.463: 	force SDR: false
+14:14:55.532: [jim-nvenc: 'advanced_video_recording'] settings:
+14:14:55.532: 	codec:        H264
+14:14:55.532: 	rate_control: CBR
+14:14:55.532: 	bitrate:      2500
+14:14:55.532: 	cqp:          20
+14:14:55.532: 	keyint:       250
+14:14:55.532: 	preset:       p5
+14:14:55.532: 	tuning:       hq
+14:14:55.532: 	multipass:    qres
+14:14:55.532: 	profile:      high
+14:14:55.532: 	width:        1920
+14:14:55.532: 	height:       1080
+14:14:55.532: 	b-frames:     4
+14:14:55.532: 	lookahead:    false
+14:14:55.532: 	psycho_aq:    true
+14:14:55.532: 
+14:14:55.615: ---------------------------------
+14:14:55.615: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+14:14:55.615: 
+14:14:55.643: ==== Recording Start ===============================================
+14:14:55.643: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-14-55.mp4'...
+14:15:29.586: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-14-55.mp4' stopped
+14:15:29.586: Output 'adv_file_output': stopping
+14:15:29.586: Output 'adv_file_output': Total frames output: 2015
+14:15:29.586: Output 'adv_file_output': Total drawn frames: 2036 (2037 attempted)
+14:15:29.586: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+14:15:29.586: ==== Recording Stop ================================================
+14:15:29.587: Video stopped, number of skipped frames due to encoding lag: 1/2035 (0.0%)
+14:15:29.691: warning: 2 frames left in the queue on closing
+14:17:01.331: [jim-nvenc: 'advanced_video_recording'] settings:
+14:17:01.331: 	codec:        H264
+14:17:01.331: 	rate_control: CBR
+14:17:01.331: 	bitrate:      2500
+14:17:01.331: 	cqp:          20
+14:17:01.331: 	keyint:       250
+14:17:01.331: 	preset:       p5
+14:17:01.331: 	tuning:       hq
+14:17:01.331: 	multipass:    qres
+14:17:01.331: 	profile:      high
+14:17:01.331: 	width:        1920
+14:17:01.331: 	height:       1080
+14:17:01.331: 	b-frames:     4
+14:17:01.331: 	lookahead:    false
+14:17:01.331: 	psycho_aq:    true
+14:17:01.331: 
+14:17:01.437: ---------------------------------
+14:17:01.438: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+14:17:01.438: 
+14:17:01.453: ==== Recording Start ===============================================
+14:17:01.453: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-17-01.mp4'...
+14:17:11.382: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-17-01.mp4' stopped
+14:17:11.382: Output 'adv_file_output': stopping
+14:17:11.382: Output 'adv_file_output': Total frames output: 576
+14:17:11.382: Output 'adv_file_output': Total drawn frames: 596
+14:17:11.382: ==== Recording Stop ================================================
+14:17:11.480: warning: 2 frames left in the queue on closing
+14:17:38.875: [jim-nvenc: 'advanced_video_recording'] settings:
+14:17:38.875: 	codec:        H264
+14:17:38.875: 	rate_control: CBR
+14:17:38.875: 	bitrate:      2500
+14:17:38.875: 	cqp:          20
+14:17:38.875: 	keyint:       250
+14:17:38.875: 	preset:       p5
+14:17:38.875: 	tuning:       hq
+14:17:38.875: 	multipass:    qres
+14:17:38.875: 	profile:      high
+14:17:38.875: 	width:        1920
+14:17:38.875: 	height:       1080
+14:17:38.875: 	b-frames:     4
+14:17:38.875: 	lookahead:    false
+14:17:38.875: 	psycho_aq:    true
+14:17:38.875: 
+14:17:38.956: ---------------------------------
+14:17:38.956: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+14:17:38.956: 
+14:17:38.969: ==== Recording Start ===============================================
+14:17:38.969: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-17-38.mp4'...
+14:18:04.976: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-17-38.mp4' stopped
+14:18:04.976: Output 'adv_file_output': stopping
+14:18:04.976: Output 'adv_file_output': Total frames output: 1541
+14:18:04.976: Output 'adv_file_output': Total drawn frames: 1560
+14:18:04.976: ==== Recording Stop ================================================
+14:18:05.060: warning: 2 frames left in the queue on closing
+14:18:25.134: Device 'Micrófono (DRELANMIC)' invalidated.  Retrying (source: Captura de entrada audio 2)
+14:19:11.710: Device 'Micrófono (2- Trust On-ear USB PC Headset)' invalidated.  Retrying (source: Captura de entrada audio)
+14:45:52.914: [win-wasapi: 'Captura de entrada audio 2'] update settings:
+14:45:52.914: 	device id: default
+14:45:52.914: 	use device timing: 0
+14:45:58.422: [win-wasapi: 'Captura de entrada audio 2'] update settings:
+14:45:58.422: 	device id: {0.0.1.00000000}.{160574d6-30f5-4d07-ab10-2d3d3c6e0855}
+14:45:58.422: 	use device timing: 0
+14:46:00.198: [win-wasapi: 'Captura de entrada audio'] update settings:
+14:46:00.198: 	device id: default
+14:46:00.198: 	use device timing: 0
+14:46:03.441: WASAPI: Device 'Varios micrófonos (Realtek(R) Audio)' [48000 Hz] initialized
+14:46:03.458: Device 'Varios micrófonos (Realtek(R) Audio)' invalidated.  Retrying (source: Captura de entrada audio)
+14:46:03.577: WASAPI: Device 'Varios micrófonos (Realtek(R) Audio)' [48000 Hz] initialized
+14:46:09.912: WASAPI: Default input device changed
+14:46:09.948: Device 'Varios micrófonos (Realtek(R) Audio)' invalidated.  Retrying (source: Captura de entrada audio)
+14:46:09.961: WASAPI: Device 'Micrófono (2- Trust On-ear USB PC Headset)' [48000 Hz] initialized
+14:46:12.686: [win-wasapi: 'Captura de entrada audio'] update settings:
+14:46:12.686: 	device id: {0.0.1.00000000}.{3c9081ea-90c6-4da4-bddc-4436a8212490}
+14:46:12.686: 	use device timing: 0
+14:46:12.689: Device 'Micrófono (2- Trust On-ear USB PC Headset)' invalidated.  Retrying (source: Captura de entrada audio)
+14:46:12.702: WASAPI: Device 'Micrófono (2- Trust On-ear USB PC Headset)' [48000 Hz] initialized
+14:46:19.440: User Removed source 'Captura de entrada audio 2' (wasapi_input_capture) from scene 'Escena'
+14:46:19.441: WASAPI: Device 'Micrófono (DRELANMIC)' Terminated
+14:48:04.913: [jim-nvenc: 'advanced_video_recording'] settings:
+14:48:04.913: 	codec:        H264
+14:48:04.913: 	rate_control: CBR
+14:48:04.913: 	bitrate:      2500
+14:48:04.913: 	cqp:          20
+14:48:04.913: 	keyint:       250
+14:48:04.913: 	preset:       p5
+14:48:04.913: 	tuning:       hq
+14:48:04.913: 	multipass:    qres
+14:48:04.913: 	profile:      high
+14:48:04.913: 	width:        1920
+14:48:04.913: 	height:       1080
+14:48:04.913: 	b-frames:     4
+14:48:04.913: 	lookahead:    false
+14:48:04.913: 	psycho_aq:    true
+14:48:04.913: 
+14:48:04.982: ---------------------------------
+14:48:04.982: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+14:48:04.982: 
+14:48:04.994: ==== Recording Start ===============================================
+14:48:04.994: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-48-04.mp4'...
+14:48:21.471: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-48-04.mp4' stopped
+14:48:21.471: Output 'adv_file_output': stopping
+14:48:21.471: Output 'adv_file_output': Total frames output: 968
+14:48:21.471: Output 'adv_file_output': Total drawn frames: 989
+14:48:21.471: ==== Recording Stop ================================================
+14:48:21.563: warning: 2 frames left in the queue on closing
+14:48:29.152: [jim-nvenc: 'advanced_video_recording'] settings:
+14:48:29.152: 	codec:        H264
+14:48:29.152: 	rate_control: CBR
+14:48:29.152: 	bitrate:      2500
+14:48:29.152: 	cqp:          20
+14:48:29.152: 	keyint:       250
+14:48:29.152: 	preset:       p5
+14:48:29.152: 	tuning:       hq
+14:48:29.152: 	multipass:    qres
+14:48:29.152: 	profile:      high
+14:48:29.152: 	width:        1920
+14:48:29.152: 	height:       1080
+14:48:29.152: 	b-frames:     4
+14:48:29.152: 	lookahead:    false
+14:48:29.152: 	psycho_aq:    true
+14:48:29.152: 
+14:48:29.216: ---------------------------------
+14:48:29.216: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+14:48:29.216: 
+14:48:29.227: ==== Recording Start ===============================================
+14:48:29.227: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-48-29.mp4'...
+14:49:03.857: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-48-29.mp4' stopped
+14:49:03.857: Output 'adv_file_output': stopping
+14:49:03.857: Output 'adv_file_output': Total frames output: 2058
+14:49:03.857: Output 'adv_file_output': Total drawn frames: 2078
+14:49:03.857: ==== Recording Stop ================================================
+14:49:03.952: warning: 2 frames left in the queue on closing
+14:54:12.788: [jim-nvenc: 'advanced_video_recording'] settings:
+14:54:12.788: 	codec:        H264
+14:54:12.788: 	rate_control: CBR
+14:54:12.788: 	bitrate:      2500
+14:54:12.788: 	cqp:          20
+14:54:12.788: 	keyint:       250
+14:54:12.788: 	preset:       p5
+14:54:12.788: 	tuning:       hq
+14:54:12.788: 	multipass:    qres
+14:54:12.788: 	profile:      high
+14:54:12.788: 	width:        1920
+14:54:12.788: 	height:       1080
+14:54:12.788: 	b-frames:     4
+14:54:12.788: 	lookahead:    false
+14:54:12.788: 	psycho_aq:    true
+14:54:12.788: 
+14:54:12.855: ---------------------------------
+14:54:12.855: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+14:54:12.855: 
+14:54:12.868: ==== Recording Start ===============================================
+14:54:12.868: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-54-12.mp4'...
+14:56:11.300: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 14-54-12.mp4' stopped
+14:56:11.300: Output 'adv_file_output': stopping
+14:56:11.300: Output 'adv_file_output': Total frames output: 7086
+14:56:11.300: Output 'adv_file_output': Total drawn frames: 7106
+14:56:11.300: ==== Recording Stop ================================================
+14:56:11.389: warning: 2 frames left in the queue on closing
+15:11:34.791: [jim-nvenc: 'advanced_video_recording'] settings:
+15:11:34.791: 	codec:        H264
+15:11:34.791: 	rate_control: CBR
+15:11:34.791: 	bitrate:      2500
+15:11:34.791: 	cqp:          20
+15:11:34.791: 	keyint:       250
+15:11:34.791: 	preset:       p5
+15:11:34.791: 	tuning:       hq
+15:11:34.791: 	multipass:    qres
+15:11:34.791: 	profile:      high
+15:11:34.791: 	width:        1920
+15:11:34.791: 	height:       1080
+15:11:34.791: 	b-frames:     4
+15:11:34.791: 	lookahead:    false
+15:11:34.791: 	psycho_aq:    true
+15:11:34.791: 
+15:11:34.857: ---------------------------------
+15:11:34.857: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:11:34.857: 
+15:11:34.868: ==== Recording Start ===============================================
+15:11:34.868: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-11-34.mp4'...
+15:13:25.191: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-11-34.mp4' stopped
+15:13:25.191: Output 'adv_file_output': stopping
+15:13:25.191: Output 'adv_file_output': Total frames output: 6598
+15:13:25.191: Output 'adv_file_output': Total drawn frames: 6616 (6619 attempted)
+15:13:25.191: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 3 (0.0%)
+15:13:25.192: ==== Recording Stop ================================================
+15:13:25.192: Video stopped, number of skipped frames due to encoding lag: 3/6617 (0.0%)
+15:13:25.315: warning: 2 frames left in the queue on closing
+15:13:31.630: [jim-nvenc: 'advanced_video_recording'] settings:
+15:13:31.630: 	codec:        H264
+15:13:31.630: 	rate_control: CBR
+15:13:31.630: 	bitrate:      2500
+15:13:31.630: 	cqp:          20
+15:13:31.630: 	keyint:       250
+15:13:31.630: 	preset:       p5
+15:13:31.630: 	tuning:       hq
+15:13:31.630: 	multipass:    qres
+15:13:31.630: 	profile:      high
+15:13:31.630: 	width:        1920
+15:13:31.630: 	height:       1080
+15:13:31.630: 	b-frames:     4
+15:13:31.630: 	lookahead:    false
+15:13:31.630: 	psycho_aq:    true
+15:13:31.630: 
+15:13:31.696: ---------------------------------
+15:13:31.696: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:13:31.696: 
+15:13:31.706: ==== Recording Start ===============================================
+15:13:31.706: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-13-31.mp4'...
+15:15:21.352: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-13-31.mp4' stopped
+15:15:21.352: Output 'adv_file_output': stopping
+15:15:21.352: Output 'adv_file_output': Total frames output: 6558
+15:15:21.352: Output 'adv_file_output': Total drawn frames: 6576 (6579 attempted)
+15:15:21.352: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 3 (0.0%)
+15:15:21.352: ==== Recording Stop ================================================
+15:15:21.353: Video stopped, number of skipped frames due to encoding lag: 3/6577 (0.0%)
+15:15:21.437: warning: 2 frames left in the queue on closing
+15:17:19.460: [jim-nvenc: 'advanced_video_recording'] settings:
+15:17:19.460: 	codec:        H264
+15:17:19.460: 	rate_control: CBR
+15:17:19.460: 	bitrate:      2500
+15:17:19.460: 	cqp:          20
+15:17:19.460: 	keyint:       250
+15:17:19.460: 	preset:       p5
+15:17:19.460: 	tuning:       hq
+15:17:19.460: 	multipass:    qres
+15:17:19.460: 	profile:      high
+15:17:19.460: 	width:        1920
+15:17:19.460: 	height:       1080
+15:17:19.460: 	b-frames:     4
+15:17:19.460: 	lookahead:    false
+15:17:19.460: 	psycho_aq:    true
+15:17:19.460: 
+15:17:19.532: ---------------------------------
+15:17:19.532: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:17:19.532: 
+15:17:19.543: ==== Recording Start ===============================================
+15:17:19.543: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-17-19.mp4'...
+15:17:54.068: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-17-19.mp4' stopped
+15:17:54.068: Output 'adv_file_output': stopping
+15:17:54.068: Output 'adv_file_output': Total frames output: 2051
+15:17:54.068: Output 'adv_file_output': Total drawn frames: 2072
+15:17:54.068: ==== Recording Stop ================================================
+15:17:54.165: warning: 2 frames left in the queue on closing
+15:18:09.917: [jim-nvenc: 'advanced_video_recording'] settings:
+15:18:09.917: 	codec:        H264
+15:18:09.917: 	rate_control: CBR
+15:18:09.917: 	bitrate:      2500
+15:18:09.917: 	cqp:          20
+15:18:09.917: 	keyint:       250
+15:18:09.917: 	preset:       p5
+15:18:09.917: 	tuning:       hq
+15:18:09.917: 	multipass:    qres
+15:18:09.917: 	profile:      high
+15:18:09.917: 	width:        1920
+15:18:09.917: 	height:       1080
+15:18:09.917: 	b-frames:     4
+15:18:09.917: 	lookahead:    false
+15:18:09.917: 	psycho_aq:    true
+15:18:09.917: 
+15:18:09.985: ---------------------------------
+15:18:09.985: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:18:09.985: 
+15:18:09.999: ==== Recording Start ===============================================
+15:18:09.999: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-18-09.mp4'...
+15:18:29.316: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-18-09.mp4' stopped
+15:18:29.316: Output 'adv_file_output': stopping
+15:18:29.316: Output 'adv_file_output': Total frames output: 1138
+15:18:29.316: Output 'adv_file_output': Total drawn frames: 1159
+15:18:29.316: ==== Recording Stop ================================================
+15:18:29.381: warning: 2 frames left in the queue on closing
+15:19:45.784: [jim-nvenc: 'advanced_video_recording'] settings:
+15:19:45.784: 	codec:        H264
+15:19:45.784: 	rate_control: CBR
+15:19:45.784: 	bitrate:      2500
+15:19:45.784: 	cqp:          20
+15:19:45.784: 	keyint:       250
+15:19:45.784: 	preset:       p5
+15:19:45.784: 	tuning:       hq
+15:19:45.784: 	multipass:    qres
+15:19:45.784: 	profile:      high
+15:19:45.784: 	width:        1920
+15:19:45.784: 	height:       1080
+15:19:45.784: 	b-frames:     4
+15:19:45.784: 	lookahead:    false
+15:19:45.784: 	psycho_aq:    true
+15:19:45.784: 
+15:19:45.865: ---------------------------------
+15:19:45.865: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:19:45.865: 
+15:19:45.882: ==== Recording Start ===============================================
+15:19:45.882: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-19-45.mp4'...
+15:22:38.407: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-19-45.mp4' stopped
+15:22:38.407: Output 'adv_file_output': stopping
+15:22:38.407: Output 'adv_file_output': Total frames output: 10331
+15:22:38.407: Output 'adv_file_output': Total drawn frames: 10347 (10351 attempted)
+15:22:38.407: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 4 (0.0%)
+15:22:38.407: ==== Recording Stop ================================================
+15:22:38.408: Video stopped, number of skipped frames due to encoding lag: 4/10350 (0.0%)
+15:22:38.484: warning: 2 frames left in the queue on closing
+15:23:22.062: [jim-nvenc: 'advanced_video_recording'] settings:
+15:23:22.062: 	codec:        H264
+15:23:22.062: 	rate_control: CBR
+15:23:22.062: 	bitrate:      2500
+15:23:22.062: 	cqp:          20
+15:23:22.062: 	keyint:       250
+15:23:22.062: 	preset:       p5
+15:23:22.062: 	tuning:       hq
+15:23:22.062: 	multipass:    qres
+15:23:22.062: 	profile:      high
+15:23:22.062: 	width:        1920
+15:23:22.062: 	height:       1080
+15:23:22.062: 	b-frames:     4
+15:23:22.062: 	lookahead:    false
+15:23:22.062: 	psycho_aq:    true
+15:23:22.062: 
+15:23:22.129: ---------------------------------
+15:23:22.129: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:23:22.129: 
+15:23:22.140: ==== Recording Start ===============================================
+15:23:22.140: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-23-22.mp4'...
+15:24:07.766: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-23-22.mp4' stopped
+15:24:07.766: Output 'adv_file_output': stopping
+15:24:07.766: Output 'adv_file_output': Total frames output: 2717
+15:24:07.766: Output 'adv_file_output': Total drawn frames: 2737 (2738 attempted)
+15:24:07.766: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+15:24:07.767: ==== Recording Stop ================================================
+15:24:07.767: Video stopped, number of skipped frames due to encoding lag: 1/2736 (0.0%)
+15:24:07.904: warning: 2 frames left in the queue on closing
+15:24:40.821: [jim-nvenc: 'advanced_video_recording'] settings:
+15:24:40.821: 	codec:        H264
+15:24:40.821: 	rate_control: CBR
+15:24:40.821: 	bitrate:      2500
+15:24:40.821: 	cqp:          20
+15:24:40.821: 	keyint:       250
+15:24:40.821: 	preset:       p5
+15:24:40.821: 	tuning:       hq
+15:24:40.821: 	multipass:    qres
+15:24:40.821: 	profile:      high
+15:24:40.821: 	width:        1920
+15:24:40.821: 	height:       1080
+15:24:40.821: 	b-frames:     4
+15:24:40.821: 	lookahead:    false
+15:24:40.821: 	psycho_aq:    true
+15:24:40.821: 
+15:24:40.897: ---------------------------------
+15:24:40.897: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:24:40.897: 
+15:24:40.909: ==== Recording Start ===============================================
+15:24:40.909: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-24-40.mp4'...
+15:36:37.837: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-24-40.mp4' stopped
+15:36:37.837: Output 'adv_file_output': stopping
+15:36:37.837: Output 'adv_file_output': Total frames output: 42995
+15:36:37.837: Output 'adv_file_output': Total drawn frames: 43006 (43016 attempted)
+15:36:37.837: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 10 (0.0%)
+15:36:37.837: Video stopped, number of skipped frames due to encoding lag: 10/43014 (0.0%)
+15:36:37.838: ==== Recording Stop ================================================
+15:36:37.918: warning: 2 frames left in the queue on closing
+15:38:33.064: [jim-nvenc: 'advanced_video_recording'] settings:
+15:38:33.064: 	codec:        H264
+15:38:33.064: 	rate_control: CBR
+15:38:33.064: 	bitrate:      2500
+15:38:33.064: 	cqp:          20
+15:38:33.064: 	keyint:       250
+15:38:33.064: 	preset:       p5
+15:38:33.064: 	tuning:       hq
+15:38:33.064: 	multipass:    qres
+15:38:33.064: 	profile:      high
+15:38:33.064: 	width:        1920
+15:38:33.064: 	height:       1080
+15:38:33.064: 	b-frames:     4
+15:38:33.064: 	lookahead:    false
+15:38:33.064: 	psycho_aq:    true
+15:38:33.064: 
+15:38:33.136: ---------------------------------
+15:38:33.136: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:38:33.136: 
+15:38:33.147: ==== Recording Start ===============================================
+15:38:33.147: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-38-33.mp4'...
+15:43:04.074: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-38-33.mp4' stopped
+15:43:04.074: Output 'adv_file_output': stopping
+15:43:04.074: Output 'adv_file_output': Total frames output: 16235
+15:43:04.074: Output 'adv_file_output': Total drawn frames: 16254 (16255 attempted)
+15:43:04.074: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+15:43:04.074: ==== Recording Stop ================================================
+15:43:04.075: Video stopped, number of skipped frames due to encoding lag: 1/16254 (0.0%)
+15:43:04.223: warning: 2 frames left in the queue on closing
+15:51:41.281: [jim-nvenc: 'advanced_video_recording'] settings:
+15:51:41.281: 	codec:        H264
+15:51:41.281: 	rate_control: CBR
+15:51:41.281: 	bitrate:      2500
+15:51:41.281: 	cqp:          20
+15:51:41.281: 	keyint:       250
+15:51:41.281: 	preset:       p5
+15:51:41.281: 	tuning:       hq
+15:51:41.281: 	multipass:    qres
+15:51:41.281: 	profile:      high
+15:51:41.281: 	width:        1920
+15:51:41.281: 	height:       1080
+15:51:41.281: 	b-frames:     4
+15:51:41.281: 	lookahead:    false
+15:51:41.281: 	psycho_aq:    true
+15:51:41.281: 
+15:51:41.400: ---------------------------------
+15:51:41.400: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+15:51:41.400: 
+15:51:41.411: ==== Recording Start ===============================================
+15:51:41.411: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-51-41.mp4'...
+16:04:21.837: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 15-51-41.mp4' stopped
+16:04:21.837: Output 'adv_file_output': stopping
+16:04:21.837: Output 'adv_file_output': Total frames output: 45604
+16:04:21.837: Output 'adv_file_output': Total drawn frames: 45624 (45626 attempted)
+16:04:21.837: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.0%)
+16:04:21.838: ==== Recording Stop ================================================
+16:04:21.838: Video stopped, number of skipped frames due to encoding lag: 2/45624 (0.0%)
+16:04:21.928: warning: 2 frames left in the queue on closing
+16:13:05.396: [jim-nvenc: 'advanced_video_recording'] settings:
+16:13:05.396: 	codec:        H264
+16:13:05.396: 	rate_control: CBR
+16:13:05.396: 	bitrate:      2500
+16:13:05.396: 	cqp:          20
+16:13:05.396: 	keyint:       250
+16:13:05.396: 	preset:       p5
+16:13:05.396: 	tuning:       hq
+16:13:05.396: 	multipass:    qres
+16:13:05.396: 	profile:      high
+16:13:05.396: 	width:        1920
+16:13:05.396: 	height:       1080
+16:13:05.396: 	b-frames:     4
+16:13:05.396: 	lookahead:    false
+16:13:05.396: 	psycho_aq:    true
+16:13:05.396: 
+16:13:05.471: ---------------------------------
+16:13:05.472: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+16:13:05.472: 
+16:13:05.483: ==== Recording Start ===============================================
+16:13:05.483: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 16-13-05.mp4'...
+16:19:00.499: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 16-13-05.mp4' stopped
+16:19:00.499: Output 'adv_file_output': stopping
+16:19:00.499: Output 'adv_file_output': Total frames output: 21280
+16:19:00.499: Output 'adv_file_output': Total drawn frames: 21301
+16:19:00.500: ==== Recording Stop ================================================
+16:19:00.577: warning: 2 frames left in the queue on closing
+16:19:06.395: [jim-nvenc: 'advanced_video_recording'] settings:
+16:19:06.395: 	codec:        H264
+16:19:06.395: 	rate_control: CBR
+16:19:06.395: 	bitrate:      2500
+16:19:06.395: 	cqp:          20
+16:19:06.395: 	keyint:       250
+16:19:06.395: 	preset:       p5
+16:19:06.395: 	tuning:       hq
+16:19:06.395: 	multipass:    qres
+16:19:06.395: 	profile:      high
+16:19:06.395: 	width:        1920
+16:19:06.395: 	height:       1080
+16:19:06.395: 	b-frames:     4
+16:19:06.395: 	lookahead:    false
+16:19:06.395: 	psycho_aq:    true
+16:19:06.395: 
+16:19:06.463: ---------------------------------
+16:19:06.463: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+16:19:06.463: 
+16:19:06.482: ==== Recording Start ===============================================
+16:19:06.482: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 16-19-06.mp4'...
+16:31:47.745: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 16-19-06.mp4' stopped
+16:31:47.745: Output 'adv_file_output': stopping
+16:31:47.745: Output 'adv_file_output': Total frames output: 45654
+16:31:47.745: Output 'adv_file_output': Total drawn frames: 45667 (45676 attempted)
+16:31:47.745: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 9 (0.0%)
+16:31:47.746: ==== Recording Stop ================================================
+16:31:47.746: Video stopped, number of skipped frames due to encoding lag: 9/45675 (0.0%)
+16:31:47.841: warning: 2 frames left in the queue on closing
+16:38:33.224: warning: deprecated pixel format used, make sure you did set range correctly
+16:38:55.628: [jim-nvenc: 'advanced_video_recording'] settings:
+16:38:55.628: 	codec:        H264
+16:38:55.628: 	rate_control: CBR
+16:38:55.628: 	bitrate:      2500
+16:38:55.628: 	cqp:          20
+16:38:55.628: 	keyint:       250
+16:38:55.628: 	preset:       p5
+16:38:55.628: 	tuning:       hq
+16:38:55.628: 	multipass:    qres
+16:38:55.628: 	profile:      high
+16:38:55.628: 	width:        1920
+16:38:55.628: 	height:       1080
+16:38:55.628: 	b-frames:     4
+16:38:55.628: 	lookahead:    false
+16:38:55.628: 	psycho_aq:    true
+16:38:55.628: 
+16:38:55.709: ---------------------------------
+16:38:55.709: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+16:38:55.709: 
+16:38:55.721: ==== Recording Start ===============================================
+16:38:55.722: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 16-38-55.mp4'...
+16:43:42.918: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 16-38-55.mp4' stopped
+16:43:42.918: Output 'adv_file_output': stopping
+16:43:42.918: Output 'adv_file_output': Total frames output: 17210
+16:43:42.918: Output 'adv_file_output': Total drawn frames: 17228 (17232 attempted)
+16:43:42.918: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 4 (0.0%)
+16:43:42.918: ==== Recording Stop ================================================
+16:43:42.919: Video stopped, number of skipped frames due to encoding lag: 4/17230 (0.0%)
+16:43:43.015: warning: 2 frames left in the queue on closing
+17:03:20.020: [jim-nvenc: 'advanced_video_recording'] settings:
+17:03:20.020: 	codec:        H264
+17:03:20.020: 	rate_control: CBR
+17:03:20.020: 	bitrate:      2500
+17:03:20.020: 	cqp:          20
+17:03:20.020: 	keyint:       250
+17:03:20.020: 	preset:       p5
+17:03:20.020: 	tuning:       hq
+17:03:20.020: 	multipass:    qres
+17:03:20.020: 	profile:      high
+17:03:20.020: 	width:        1920
+17:03:20.020: 	height:       1080
+17:03:20.020: 	b-frames:     4
+17:03:20.020: 	lookahead:    false
+17:03:20.020: 	psycho_aq:    true
+17:03:20.020: 
+17:03:20.100: ---------------------------------
+17:03:20.100: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+17:03:20.100: 
+17:03:20.112: ==== Recording Start ===============================================
+17:03:20.112: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 17-03-19.mp4'...
+17:21:44.589: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 17-03-19.mp4' stopped
+17:21:44.589: Output 'adv_file_output': stopping
+17:21:44.589: Output 'adv_file_output': Total frames output: 66247
+17:21:44.589: Output 'adv_file_output': Total drawn frames: 66259 (66269 attempted)
+17:21:44.589: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 10 (0.0%)
+17:21:44.589: ==== Recording Stop ================================================
+17:21:44.589: Video stopped, number of skipped frames due to encoding lag: 10/66267 (0.0%)
+17:21:44.685: warning: 2 frames left in the queue on closing
+17:23:15.103: [jim-nvenc: 'advanced_video_recording'] settings:
+17:23:15.103: 	codec:        H264
+17:23:15.103: 	rate_control: CBR
+17:23:15.103: 	bitrate:      2500
+17:23:15.103: 	cqp:          20
+17:23:15.103: 	keyint:       250
+17:23:15.103: 	preset:       p5
+17:23:15.103: 	tuning:       hq
+17:23:15.103: 	multipass:    qres
+17:23:15.103: 	profile:      high
+17:23:15.103: 	width:        1920
+17:23:15.103: 	height:       1080
+17:23:15.103: 	b-frames:     4
+17:23:15.103: 	lookahead:    false
+17:23:15.103: 	psycho_aq:    true
+17:23:15.103: 
+17:23:15.185: ---------------------------------
+17:23:15.185: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+17:23:15.185: 
+17:23:15.199: ==== Recording Start ===============================================
+17:23:15.199: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 17-23-15.mp4'...
+17:26:55.431: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 17-23-15.mp4' stopped
+17:26:55.431: Output 'adv_file_output': stopping
+17:26:55.431: Output 'adv_file_output': Total frames output: 13193
+17:26:55.432: Output 'adv_file_output': Total drawn frames: 13212 (13214 attempted)
+17:26:55.432: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.0%)
+17:26:55.432: ==== Recording Stop ================================================
+17:26:55.432: Video stopped, number of skipped frames due to encoding lag: 2/13213 (0.0%)
+17:26:55.582: warning: 2 frames left in the queue on closing
+17:28:05.669: [jim-nvenc: 'advanced_video_recording'] settings:
+17:28:05.669: 	codec:        H264
+17:28:05.669: 	rate_control: CBR
+17:28:05.669: 	bitrate:      2500
+17:28:05.669: 	cqp:          20
+17:28:05.669: 	keyint:       250
+17:28:05.669: 	preset:       p5
+17:28:05.669: 	tuning:       hq
+17:28:05.669: 	multipass:    qres
+17:28:05.669: 	profile:      high
+17:28:05.669: 	width:        1920
+17:28:05.669: 	height:       1080
+17:28:05.669: 	b-frames:     4
+17:28:05.669: 	lookahead:    false
+17:28:05.669: 	psycho_aq:    true
+17:28:05.669: 
+17:28:05.739: ---------------------------------
+17:28:05.739: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+17:28:05.739: 
+17:28:05.750: ==== Recording Start ===============================================
+17:28:05.750: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 17-28-05.mp4'...
+17:34:31.561: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 17-28-05.mp4' stopped
+17:34:31.561: Output 'adv_file_output': stopping
+17:34:31.561: Output 'adv_file_output': Total frames output: 23128
+17:34:31.561: Output 'adv_file_output': Total drawn frames: 23141 (23148 attempted)
+17:34:31.561: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 7 (0.0%)
+17:34:31.561: ==== Recording Stop ================================================
+17:34:31.562: Video stopped, number of skipped frames due to encoding lag: 7/23147 (0.0%)
+17:34:31.641: warning: 2 frames left in the queue on closing
+17:34:36.139: [jim-nvenc: 'advanced_video_recording'] settings:
+17:34:36.139: 	codec:        H264
+17:34:36.139: 	rate_control: CBR
+17:34:36.139: 	bitrate:      2500
+17:34:36.139: 	cqp:          20
+17:34:36.139: 	keyint:       250
+17:34:36.139: 	preset:       p5
+17:34:36.139: 	tuning:       hq
+17:34:36.139: 	multipass:    qres
+17:34:36.139: 	profile:      high
+17:34:36.139: 	width:        1920
+17:34:36.139: 	height:       1080
+17:34:36.139: 	b-frames:     4
+17:34:36.139: 	lookahead:    false
+17:34:36.139: 	psycho_aq:    true
+17:34:36.139: 
+17:34:36.207: ---------------------------------
+17:34:36.207: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+17:34:36.207: 
+17:34:36.218: ==== Recording Start ===============================================
+17:34:36.218: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 17-34-36.mp4'...
+17:48:49.537: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/personal/quatro studio/nuevos/nuevos2/2023-08-08 17-34-36.mp4' stopped
+17:48:49.537: Output 'adv_file_output': stopping
+17:48:49.537: Output 'adv_file_output': Total frames output: 51177
+17:48:49.537: Output 'adv_file_output': Total drawn frames: 51187 (51199 attempted)
+17:48:49.537: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 12 (0.0%)
+17:48:49.538: ==== Recording Stop ================================================
+17:48:49.538: Video stopped, number of skipped frames due to encoding lag: 12/51197 (0.0%)
+17:48:49.631: warning: 2 frames left in the queue on closing
+18:56:31.435: ==== Shutting down ==================================================
+18:56:31.460: WASAPI: Device 'Micrófono (2- Trust On-ear USB PC Headset)' Terminated
+18:56:31.491: All scene data cleared
+18:56:31.491: ------------------------------------------------
+18:56:31.667: [obs-websocket] [obs_module_unload] Shutting down...
+18:56:31.669: [obs-websocket] [obs_module_unload] Finished shutting down.
+18:56:31.674: [Scripting] Total detached callbacks: 0
+18:56:31.674: Freeing OBS context data
+18:56:31.761: == Profiler Results =============================
+18:56:31.761: run_program_init: 4307.01 ms
+18:56:31.761:  ┣OBSApp::AppInit: 129.84 ms
+18:56:31.761:  ┃ ┗OBSApp::InitLocale: 20.703 ms
+18:56:31.761:  ┗OBSApp::OBSInit: 4103.74 ms
+18:56:31.761:    ┣obs_startup: 6.047 ms
+18:56:31.761:    ┗OBSBasic::OBSInit: 3497.32 ms
+18:56:31.761:      ┣OBSBasic::InitBasicConfig: 0.56 ms
+18:56:31.761:      ┣OBSBasic::ResetAudio: 0.296 ms
+18:56:31.761:      ┣OBSBasic::ResetVideo: 1576.33 ms
+18:56:31.761:      ┣OBSBasic::InitOBSCallbacks: 0.004 ms
+18:56:31.761:      ┣OBSBasic::InitHotkeys: 0.173 ms
+18:56:31.761:      ┣obs_load_all_modules2: 1237.78 ms
+18:56:31.761:      ┃ ┣obs_init_module(aja-output-ui.dll): 1.02 ms
+18:56:31.761:      ┃ ┣obs_init_module(aja.dll): 0.936 ms
+18:56:31.761:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.844 ms
+18:56:31.761:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+18:56:31.761:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+18:56:31.761:      ┃ ┣obs_init_module(decklink.dll): 1.013 ms
+18:56:31.761:      ┃ ┣obs_init_module(enc-amf.dll): 21.748 ms
+18:56:31.761:      ┃ ┣obs_init_module(frontend-tools.dll): 8.103 ms
+18:56:31.761:      ┃ ┣obs_init_module(image-source.dll): 0.009 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-browser.dll): 3.684 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 165.992 ms
+18:56:31.761:      ┃ ┃ ┗nvenc_check: 0.635 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-filters.dll): 0.996 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-outputs.dll): 0.135 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-qsv11.dll): 664.569 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-text.dll): 0.204 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-transitions.dll): 0.006 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-vst.dll): 0.002 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-websocket.dll): 11.093 ms
+18:56:31.761:      ┃ ┣obs_init_module(obs-x264.dll): 0.002 ms
+18:56:31.761:      ┃ ┣obs_init_module(rtmp-services.dll): 5.61 ms
+18:56:31.761:      ┃ ┣obs_init_module(text-freetype2.dll): 0.157 ms
+18:56:31.761:      ┃ ┣obs_init_module(vlc-video.dll): 0.03 ms
+18:56:31.761:      ┃ ┣obs_init_module(win-capture.dll): 4.039 ms
+18:56:31.761:      ┃ ┣obs_init_module(win-dshow.dll): 1.614 ms
+18:56:31.761:      ┃ ┣obs_init_module(win-wasapi.dll): 0.015 ms
+18:56:31.761:      ┃ ┗reset_win32_symbol_paths: 0.593 ms
+18:56:31.761:      ┣OBSBasic::InitService: 6.674 ms
+18:56:31.761:      ┣OBSBasic::ResetOutputs: 0.427 ms
+18:56:31.761:      ┣OBSBasic::CreateHotkeys: 0.029 ms
+18:56:31.761:      ┣OBSBasic::InitPrimitives: 0.091 ms
+18:56:31.761:      ┗OBSBasic::Load: 525.461 ms
+18:56:31.761: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.005 ms, max=32.112 ms, 99th percentile=0.157 ms, 99.9993% below 25 ms
+18:56:31.761: audio_thread(Audio): min=0.008 ms, median=0.118 ms, max=35.121 ms, 99th percentile=3.51 ms
+18:56:31.761:  ┗receive_audio: min=0.002 ms, median=0.545 ms, max=18.239 ms, 99th percentile=5.125 ms, 0.360637 calls per parent call
+18:56:31.761:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.508 ms, 99th percentile=0.006 ms
+18:56:31.761:    ┗do_encode: min=0.013 ms, median=0.54 ms, max=18.234 ms, 99th percentile=5.12 ms
+18:56:31.761:      ┣encode(Track1): min=0.012 ms, median=0.514 ms, max=10.536 ms, 99th percentile=5.087 ms
+18:56:31.761:      ┗send_packet: min=0.001 ms, median=0.02 ms, max=17.474 ms, 99th percentile=0.1 ms
+18:56:31.761: obs_graphics_thread(16.6667 ms): min=0.046 ms, median=0.69 ms, max=327.909 ms, 99th percentile=2.792 ms, 99.9374% below 16.667 ms
+18:56:31.761:  ┣tick_sources: min=0.001 ms, median=0.011 ms, max=327.676 ms, 99th percentile=0.059 ms
+18:56:31.761:  ┣output_frame: min=0.034 ms, median=0.146 ms, max=54.963 ms, 99th percentile=0.665 ms
+18:56:31.761:  ┃ ┗gs_context(video->graphics): min=0.033 ms, median=0.146 ms, max=54.961 ms, 99th percentile=0.662 ms
+18:56:31.761:  ┃   ┣render_video: min=0.003 ms, median=0.035 ms, max=41.492 ms, 99th percentile=0.522 ms
+18:56:31.761:  ┃   ┃ ┣render_main_texture: min=0.002 ms, median=0.025 ms, max=38.099 ms, 99th percentile=0.108 ms
+18:56:31.761:  ┃   ┃ ┣render_convert_texture: min=0.007 ms, median=0.012 ms, max=27.369 ms, 99th percentile=0.066 ms, 0.36055 calls per parent call
+18:56:31.761:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.027 ms, max=35.214 ms, 99th percentile=0.172 ms, 0.36055 calls per parent call
+18:56:31.761:  ┃   ┗gs_flush: min=0.003 ms, median=0.061 ms, max=50.914 ms, 99th percentile=0.27 ms
+18:56:31.761:  ┗render_displays: min=0 ms, median=0.212 ms, max=40.295 ms, 99th percentile=0.811 ms
+18:56:31.761: OBSBasic::ResetOutputs: 0.357 ms
+18:56:31.761: send_packet: min=0.005 ms, median=0.018 ms, max=20.397 ms, 99th percentile=0.127 ms
+18:56:31.761: =================================================
+18:56:31.761: == Profiler Time Between Calls ==================
+18:56:31.761: obs_hotkey_thread(25 ms): min=23.683 ms, median=25.527 ms, max=68.561 ms, 47.3078% within ±2% of 25 ms (0.0533868% lower, 52.6388% higher)
+18:56:31.761: obs_graphics_thread(16.6667 ms): min=0.139 ms, median=16.667 ms, max=327.928 ms, 90.5068% within ±2% of 16.667 ms (7.70851% lower, 1.78466% higher)
+18:56:31.761: =================================================
+18:56:32.067: Blocked loading of '\coresync_x64.dll' 9 times.
+18:56:32.067: Number of memory leaks: 1

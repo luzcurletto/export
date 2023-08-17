@@ -1,0 +1,232 @@
+18:26:18.322: CPU Name: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+18:26:18.322: CPU Speed: 2592MHz
+18:26:18.322: Physical Cores: 6, Logical Cores: 12
+18:26:18.322: Physical Memory: 16201MB Total, 8682MB Free
+18:26:18.322: Windows Version: 10.0 Build 19043 (release: 2009; revision: 1766; 64-bit)
+18:26:18.322: Running as administrator: false
+18:26:18.322: Aero is Enabled (Aero is always on for windows 8 and above)
+18:26:18.322: Windows 10 Gaming Features:
+18:26:18.322: 	Game DVR: On
+18:26:18.322: 	Hardware GPU Scheduler: On
+18:26:18.323: Sec. Software Status:
+18:26:18.324: 	Antivirus de Microsoft Defender: enabled (AV)
+18:26:18.324: 	Firewall de Windows: enabled (FW)
+18:26:18.324: Current Date/Time: 2022-06-30, 18:26:18
+18:26:18.324: Browser Hardware Acceleration: true
+18:26:18.324: Portable mode: false
+18:26:18.642: OBS 27.1.3 (64-bit, windows)
+18:26:18.642: ---------------------------------
+18:26:18.686: ---------------------------------
+18:26:18.686: audio settings reset:
+18:26:18.686: 	samples per sec: 48000
+18:26:18.686: 	speakers:        2
+18:26:18.699: ---------------------------------
+18:26:18.699: Initializing D3D11...
+18:26:18.699: Available Video Adapters: 
+18:26:18.703: 	Adapter 0: NVIDIA GeForce RTX 2070 with Max-Q Design
+18:26:18.703: 	  Dedicated VRAM: 4126146560
+18:26:18.703: 	  Shared VRAM:    4199147520
+18:26:18.703: 	  PCI ID:         10de:1f14
+18:26:18.703: 	  Driver Version: 27.21.14.5751
+18:26:18.703: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true, refresh=240, name=LQ156M1JW03
+18:26:18.703: 	Adapter 1: Intel(R) UHD Graphics
+18:26:18.703: 	  Dedicated VRAM: 134217728
+18:26:18.703: 	  Shared VRAM:    4199147520
+18:26:18.703: 	  PCI ID:         8086:9bc4
+18:26:18.703: 	  Driver Version: 26.20.100.7642
+18:26:18.706: Loading up D3D11 on adapter NVIDIA GeForce RTX 2070 with Max-Q Design (0)
+18:26:18.778: D3D11 loaded successfully, feature level used: b000
+18:26:18.778: DXGI increase maximum frame latency success
+18:26:18.778: D3D11 GPU priority setup failed (not admin?)
+18:26:19.196: ---------------------------------
+18:26:19.196: video settings reset:
+18:26:19.196: 	base resolution:   1920x1080
+18:26:19.196: 	output resolution: 1920x1080
+18:26:19.196: 	downscale filter:  Bicubic
+18:26:19.196: 	fps:               60/1
+18:26:19.196: 	format:            NV12
+18:26:19.196: 	YUV mode:          709/Partial
+18:26:19.196: NV12 texture support enabled
+18:26:19.197: Audio monitoring device:
+18:26:19.197: 	name: Por defecto
+18:26:19.197: 	id: default
+18:26:19.197: ---------------------------------
+18:26:19.199: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+18:26:19.229: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+18:26:19.241: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+18:26:19.255: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+18:26:19.316: [AMF] Unable to load 'amfrt64.dll', error code 126.
+18:26:19.318: [AMF] AMF Test failed due to one or more errors.
+18:26:19.318: Failed to initialize module 'enc-amf.dll'
+18:26:19.442: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+18:26:19.485: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+18:26:19.519: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+18:26:19.555: [obs-browser]: Version 2.16.3
+18:26:19.555: [obs-browser]: CEF Version 75.1.16+g16a67c4+chromium-75.0.3770.100
+18:26:19.608: NVENC supported
+18:26:19.624: [noise suppress]: NVIDIA RTX denoiser disabled, redistributable not found
+18:26:19.784: Couldn't find VLC installation, VLC video source disabled
+18:26:19.887: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:26:19.887: No blackmagic support
+18:26:19.931: ---------------------------------
+18:26:19.931:   Loaded Modules:
+18:26:19.931:     win-wasapi.dll
+18:26:19.931:     win-mf.dll
+18:26:19.931:     win-dshow.dll
+18:26:19.931:     win-decklink.dll
+18:26:19.931:     win-capture.dll
+18:26:19.931:     vlc-video.dll
+18:26:19.931:     text-freetype2.dll
+18:26:19.931:     rtmp-services.dll
+18:26:19.931:     obs-x264.dll
+18:26:19.931:     obs-vst.dll
+18:26:19.931:     obs-transitions.dll
+18:26:19.931:     obs-text.dll
+18:26:19.931:     obs-qsv11.dll
+18:26:19.931:     obs-outputs.dll
+18:26:19.931:     obs-filters.dll
+18:26:19.931:     obs-ffmpeg.dll
+18:26:19.931:     obs-browser.dll
+18:26:19.931:     image-source.dll
+18:26:19.931:     frontend-tools.dll
+18:26:19.931:     enc-amf.dll
+18:26:19.931:     decklink-ouput-ui.dll
+18:26:19.931:     decklink-captions.dll
+18:26:19.931:     coreaudio-encoder.dll
+18:26:19.931: ---------------------------------
+18:26:19.932: ==== Startup complete ===============================================
+18:26:19.953: All scene data cleared
+18:26:19.953: ------------------------------------------------
+18:26:20.145: [duplicator-monitor-capture: 'Captura de pantalla'] update settings:
+18:26:20.145: 	display: 1 (1920x1080)
+18:26:20.145: 	cursor: true
+18:26:20.145: 	method: WGC
+18:26:20.145: Failed to open file 'C:/Users/Bernardo/Downloads/vista_city_gerkin.jpg': No such file or directory
+18:26:20.145: gs_image_file_init_internal: Failed to load file 'C:/Users/Bernardo/Downloads/vista_city_gerkin.jpg'
+18:26:20.145: [image_source: 'Imagen 2'] failed to load texture 'C:/Users/Bernardo/Downloads/vista_city_gerkin.jpg'
+18:26:20.175: warning: deprecated pixel format used, make sure you did set range correctly
+18:26:20.213: warning: deprecated pixel format used, make sure you did set range correctly
+18:26:20.246: warning: deprecated pixel format used, make sure you did set range correctly
+18:26:20.280: warning: deprecated pixel format used, make sure you did set range correctly
+18:26:20.296: Switched to scene 'Escena'
+18:26:20.296: ------------------------------------------------
+18:26:20.296: Loaded scenes:
+18:26:20.296: - scene 'Escena':
+18:26:20.296:     - source: 'Captura de pantalla' (monitor_capture)
+18:26:20.296:     - source: 'Imagen 6' (image_source)
+18:26:20.296:     - source: 'Imagen 5' (image_source)
+18:26:20.296:     - source: 'Imagen 4' (image_source)
+18:26:20.296:     - source: 'Imagen 7' (image_source)
+18:26:20.296:     - source: 'Imagen 3' (image_source)
+18:26:20.296:     - source: 'Dispositivo de captura de video' (dshow_input)
+18:26:20.296:     - source: 'Imagen' (image_source)
+18:26:20.296:     - source: 'Imagen 2' (image_source)
+18:26:20.296: ------------------------------------------------
+18:26:20.515: [rtmp-services plugin] Successfully updated file 'services.json' (version 201)
+18:26:20.516: [rtmp-services plugin] Successfully updated package (version 201)
+18:26:21.181: Dispositivo de captura de video: data.GetDevice failed
+18:26:21.181: Dispositivo de captura de video: Video configuration failed
+18:27:16.906: Settings changed (outputs)
+18:27:16.906: ------------------------------------------------
+18:27:24.151: [jim-nvenc: 'recording_h264'] settings:
+18:27:24.151: 	rate_control: CBR
+18:27:24.151: 	bitrate:      2500
+18:27:24.151: 	cqp:          20
+18:27:24.151: 	keyint:       250
+18:27:24.151: 	preset:       mq
+18:27:24.151: 	profile:      high
+18:27:24.151: 	width:        1920
+18:27:24.151: 	height:       1080
+18:27:24.151: 	2-pass:       true
+18:27:24.151: 	b-frames:     4
+18:27:24.151: 	lookahead:    false
+18:27:24.151: 	psycho_aq:    true
+18:27:24.151: 
+18:27:24.174: ---------------------------------
+18:27:24.174: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:27:24.174: 
+18:27:24.196: ==== Recording Start ===============================================
+18:27:24.196: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Bernardo/Desktop/PROEGA/CCN CARNICO ENTRONO/MAPS/2022-06-30 18-27-24.mp4'...
+18:27:41.553: output adv_file_output paused
+18:27:44.848: output adv_file_output unpaused
+18:27:45.920: output adv_file_output paused
+18:27:46.472: output adv_file_output unpaused
+18:27:46.842: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Bernardo/Desktop/PROEGA/CCN CARNICO ENTRONO/MAPS/2022-06-30 18-27-24.mp4' stopped
+18:27:46.842: Output 'adv_file_output': stopping
+18:27:46.842: Output 'adv_file_output': Total frames output: 1106
+18:27:46.842: Output 'adv_file_output': Total drawn frames: 1358
+18:27:46.842: ==== Recording Stop ================================================
+18:27:46.921: warning: 2 frames left in the queue on closing
+18:27:49.616: ==== Shutting down ==================================================
+18:27:49.629: All scene data cleared
+18:27:49.629: ------------------------------------------------
+18:27:49.713: [Scripting] Total detached callbacks: 0
+18:27:49.713: Freeing OBS context data
+18:27:49.749: == Profiler Results =============================
+18:27:49.749: run_program_init: 2283.52 ms
+18:27:49.749:  ┣OBSApp::AppInit: 47.504 ms
+18:27:49.749:  ┃ ┗OBSApp::InitLocale: 2.556 ms
+18:27:49.749:  ┗OBSApp::OBSInit: 2140.24 ms
+18:27:49.749:    ┣obs_startup: 2.739 ms
+18:27:49.749:    ┗OBSBasic::OBSInit: 1777.37 ms
+18:27:49.749:      ┣OBSBasic::InitBasicConfig: 0.986 ms
+18:27:49.749:      ┣OBSBasic::ResetAudio: 0.426 ms
+18:27:49.749:      ┣OBSBasic::ResetVideo: 510.79 ms
+18:27:49.749:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+18:27:49.749:      ┣OBSBasic::InitHotkeys: 0.15 ms
+18:27:49.749:      ┣obs_load_all_modules: 733.597 ms
+18:27:49.749:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 1.221 ms
+18:27:49.749:      ┃ ┣obs_init_module(decklink-captions.dll): 0.023 ms
+18:27:49.749:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 1.461 ms
+18:27:49.749:      ┃ ┣obs_init_module(enc-amf.dll): 43.679 ms
+18:27:49.749:      ┃ ┣obs_init_module(frontend-tools.dll): 9.106 ms
+18:27:49.749:      ┃ ┣obs_init_module(image-source.dll): 0.008 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-browser.dll): 1.302 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 9.706 ms
+18:27:49.749:      ┃ ┃ ┗nvenc_check: 9.493 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-filters.dll): 0.069 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-outputs.dll): 0.153 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-qsv11.dll): 35.272 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-text.dll): 0.187 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-transitions.dll): 0.007 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-vst.dll): 0.002 ms
+18:27:49.749:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+18:27:49.749:      ┃ ┣obs_init_module(rtmp-services.dll): 4.582 ms
+18:27:49.749:      ┃ ┣obs_init_module(text-freetype2.dll): 0.145 ms
+18:27:49.749:      ┃ ┣obs_init_module(vlc-video.dll): 0.029 ms
+18:27:49.749:      ┃ ┣obs_init_module(win-capture.dll): 72.079 ms
+18:27:49.749:      ┃ ┣obs_init_module(win-decklink.dll): 1.582 ms
+18:27:49.749:      ┃ ┣obs_init_module(win-dshow.dll): 1.143 ms
+18:27:49.749:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+18:27:49.749:      ┃ ┣obs_init_module(win-wasapi.dll): 0.012 ms
+18:27:49.749:      ┃ ┗reset_win32_symbol_paths: 0.322 ms
+18:27:49.749:      ┣OBSBasic::ResetOutputs: 0.773 ms
+18:27:49.749:      ┣OBSBasic::CreateHotkeys: 0.038 ms
+18:27:49.749:      ┣OBSBasic::InitService: 5.353 ms
+18:27:49.749:      ┣OBSBasic::InitPrimitives: 0.101 ms
+18:27:49.749:      ┗OBSBasic::Load: 403.777 ms
+18:27:49.749: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.006 ms, max=7.3 ms, 99th percentile=0.076 ms, 100% below 25 ms
+18:27:49.749: audio_thread(Audio): min=0 ms, median=0.047 ms, max=11.343 ms, 99th percentile=0.278 ms
+18:27:49.749:  ┗receive_audio: min=0 ms, median=0.117 ms, max=11.259 ms, 99th percentile=0.271 ms, 0.243157 calls per parent call
+18:27:49.749:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.027 ms, 99th percentile=0.024 ms, 0.833021 calls per parent call
+18:27:49.749:    ┗do_encode: min=0.058 ms, median=0.119 ms, max=11.231 ms, 99th percentile=0.286 ms, 0.829268 calls per parent call
+18:27:49.749:      ┣encode(Track1): min=0.058 ms, median=0.101 ms, max=1.521 ms, 99th percentile=0.204 ms
+18:27:49.749:      ┗send_packet: min=0 ms, median=0.013 ms, max=11.127 ms, 99th percentile=0.088 ms
+18:27:49.749: obs_graphics_thread(16.6667 ms): min=0.042 ms, median=0.704 ms, max=270.051 ms, 99th percentile=1.372 ms, 99.9446% below 16.667 ms
+18:27:49.749:  ┣tick_sources: min=0.001 ms, median=0.01 ms, max=269.63 ms, 99th percentile=0.037 ms
+18:27:49.749:  ┣output_frame: min=0.033 ms, median=0.105 ms, max=0.793 ms, 99th percentile=0.3 ms
+18:27:49.749:  ┃ ┗gs_context(video->graphics): min=0.033 ms, median=0.105 ms, max=0.793 ms, 99th percentile=0.3 ms
+18:27:49.749:  ┃   ┣render_video: min=0.005 ms, median=0.029 ms, max=0.777 ms, 99th percentile=0.266 ms
+18:27:49.749:  ┃   ┃ ┣render_main_texture: min=0.002 ms, median=0.023 ms, max=0.188 ms, 99th percentile=0.061 ms
+18:27:49.750:  ┃   ┃ ┣render_convert_texture: min=0.008 ms, median=0.01 ms, max=0.055 ms, 99th percentile=0.036 ms, 0.250924 calls per parent call
+18:27:49.750:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.024 ms, max=0.201 ms, 99th percentile=0.068 ms, 0.250924 calls per parent call
+18:27:49.750:  ┃   ┗gs_flush: min=0.005 ms, median=0.057 ms, max=0.571 ms, 99th percentile=0.144 ms
+18:27:49.750:  ┗render_displays: min=0 ms, median=0.314 ms, max=21.277 ms, 99th percentile=0.696 ms
+18:27:49.750: OBSBasic::ResetOutputs: 0.49 ms
+18:27:49.750: send_packet: min=0.005 ms, median=0.014 ms, max=2.168 ms, 99th percentile=0.094 ms
+18:27:49.750: =================================================
+18:27:49.750: == Profiler Time Between Calls ==================
+18:27:49.750: obs_hotkey_thread(25 ms): min=24.67 ms, median=25.808 ms, max=55.046 ms, 30.9055% within ±2% of 25 ms (0% lower, 69.0945% higher)
+18:27:49.750: obs_graphics_thread(16.6667 ms): min=9.112 ms, median=16.667 ms, max=270.055 ms, 99.8706% within ±2% of 16.667 ms (0.0554426% lower, 0.0739235% higher)
+18:27:49.750: =================================================
+18:27:49.761: Number of memory leaks: 1
